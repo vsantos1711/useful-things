@@ -11,10 +11,11 @@ This repository contains a collection of templates for various purposes, from RE
 5. Adapt the content as needed to suit your specific requirements.
 
 ## Estrutura do Repositório
-- **/challengers-md:** Contains README templates for challenges in general.
-- **/projects-md:** Contains README templates for personal projects.
-- **/licenses-md:** Contains README templates for personal projects.
-- **/others:** Other templates that do not fit into the above categories.
+
+- **[/challengers-md](/challengers-md/):** Contains README templates for challenges in general.
+- **[/projects-md](/projects-md):** Contains README templates for personal projects.
+- **[/licenses-md](/licenses-md):** Contains README templates for personal projects.
+- **[/others](/others-md/):** Other templates that do not fit into the above categories.
 
 ## Contributing
 
