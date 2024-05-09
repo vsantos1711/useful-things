@@ -85,6 +85,8 @@ Contributions are welcome! If you want to contribute to the project, follow the 
 - Push the changes to the remote repository: git push origin my-feature.
 - Open a pull request on the original repository.
 
+> For a better commits semantic, we recommend the use of the [Conventional Commits](../COMMITS.md)
+
 ## Contributors
 
 <a href="https://github.com/vsantos1711/useful-things/graphs/contributors">
@@ -93,4 +95,4 @@ Contributions are welcome! If you want to contribute to the project, follow the 
 
 ## License
 
-Licensed under the [MIT license](#).
+Licensed under the [MIT license](../LICENSE.md).
