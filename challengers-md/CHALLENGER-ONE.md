@@ -70,7 +70,7 @@ Running the app
    cd transaction && bun install && bun run dev
    ```
 
-   </details>
+</details>
 
 ## API Endpoint
 

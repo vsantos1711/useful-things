@@ -87,8 +87,6 @@ Contributions are welcome! If you want to contribute to the project, follow the 
 
 ## Contributors
 
-[//]: contributor-faces
-
 <a href="https://github.com/vsantos1711/useful-things/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vsantos1711/useful-things" />
 </a>
