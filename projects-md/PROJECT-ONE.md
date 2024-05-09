@@ -24,7 +24,7 @@ MeowHub is a straightforward social media platform for cat lovers! Share delight
 
 ## Usage
 
-To start using our app, you can begin right away with our hosted version. Visit [link](#) and navigate to the login page.
+To start using our app, you can begin right away with our hosted version. Visit [link](#Contributing) and navigate to the login page.
 
 ## Development
 
@@ -52,8 +52,6 @@ To be able to start development the application make sure that you have the foll
 
 </details>
 
-</details>
-
 <details open>
 <summary>
 Running the app
@@ -75,7 +73,7 @@ git clone https://github.com/vsantos1711/meow-hub.git && cd meow-hub && pnpm ins
 pnpm install && pnpm run dev
 ```
 
-<a name="contributing_anchor"></a>
+</details>
 
 ## Contributing
 
