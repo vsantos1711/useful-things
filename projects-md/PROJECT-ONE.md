@@ -67,7 +67,7 @@ To setup a local development environment the following steps can be followed:
 git clone https://github.com/vsantos1711/meow-hub.git && cd meow-hub && pnpm install
 ```
 
-2. Run the setup script, which takes care of installing dependencies, building packages and setting up the workspace:
+2. Run the app:
 
 ```shell
 pnpm install && pnpm run dev
