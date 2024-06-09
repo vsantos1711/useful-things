@@ -2,7 +2,7 @@
 
 # Blue
 
-🗺️🧳🚙📬🐬🐟🎐💎🧊🧿💠🌀🥏🌌🌊
+🗺️🧳🚙📬🐬🐟🎐💎🧊🧿💠🌀🥏🌌🌊🧞
 
 <details>
  <summary>Icons by project</summary>
