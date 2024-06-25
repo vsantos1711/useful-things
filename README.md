@@ -10,12 +10,12 @@ This repository contains a collection of templates for various purposes, from RE
 4. Copy the content of README.md to your own project or document.
 5. Adapt the content as needed to suit your specific requirements.
 
-## Estrutura do Repositório
+## Repository Structure
 
-- **[/challengers-md](/challengers-md/):** Contains README templates for challenges in general.
-- **[/licenses-md](/licenses-md):** Contains useful LICENSES templates for personal projects.
-- **[/others](/others-md/):** Other templates that do not fit into the above categories.
-- **[/projects-md](/projects-md):** Contains README templates for personal projects.
+- **[/challengers-md](https://github.com/vsantos1711/useful-things/tree/main/challengers-md):** Contains README templates for **challenges** in general.
+- **[/licenses-md](https://github.com/vsantos1711/useful-things/tree/main/licenses-md):** Contains useful **LICENSES** templates for personal projects.
+- **[/others](https://github.com/vsantos1711/useful-things/tree/main/others-md):** **Others** templates that do not fit into the above categories.
+- **[/projects-md](https://github.com/vsantos1711/useful-things/tree/main/projects-md):** Contains READMEs templates for **personal projects**.
 
 ## Contributing
 
